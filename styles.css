@@ -13,10 +13,11 @@ header{
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 24px 0;
     text-align: center;
+    font-family: cursive;
 }
 
 header a{
-    text-decoration: none;
+    text-decoration: wavy;
     color: inherit;
 }
 
@@ -42,7 +43,7 @@ nav a{
 }
 
 nav a:hover {
-    color: #ff6347;
+    color: cadetblue;
     text-decoration: underline;
 }
 
